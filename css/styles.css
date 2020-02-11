@@ -1,0 +1,133 @@
+/* First section content */
+section {
+  margin-right: 24%;
+  margin-left: 24%;
+  margin-top: 10rem;
+  margin-bottom: 4rem;
+}
+
+p {
+  margin-bottom: 0px;
+}
+.messag {
+  text-align: center;
+  font-family: 'Seymour One', sans-serif;
+  font-size: 1rem;
+}
+
+/* .title{
+  text-align: center;
+} */
+
+/* footer style */
+.icon1 {
+  margin: 20px 10px;
+  color: black;
+}
+
+.icon1:hover {
+  color: #c70d3a;
+}
+
+/* footer of the page */
+#footer {
+  position: relative;
+  text-align: center;
+  padding: 0 0;
+  background-color: #f1f1f6;
+}
+
+.container-fluid {
+  padding-left: 0px;
+      padding-right: 0px;
+}
+
+.container {
+  text-align: justify;
+}
+
+/* body style */
+body {
+  text-align: justify;
+}
+
+/* picture of the body */
+.flag1 {
+  margin-top: 5%;
+}
+
+.flag2 {
+  margin-bottom: 2%;
+  height: 10%;
+  width: 100%;
+}
+
+/* text */
+.middleText {
+  font-family: 'Montaga', serif;
+  text-align: justify;
+}
+.textNumb2{
+  text-align: center;
+}
+
+
+/* navigation bar */
+.nav-link {
+  font-family: 'Lilita One', cursive;
+}
+
+.navbar {
+  padding-right: 23.3%;
+  padding-left: 24%;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+
+
+/* navigation bar logo */
+.navBar-Logo {
+  font-family: 'Lilita One', cursive;
+  /* font-size: 17px; */
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  color: #192965;
+}
+
+.fixedNav{
+  background-color: #ffffff;
+
+}
+
+/* space between the flag */
+.columnleft {
+  font-family: 'Seymour One', sans-serif;
+
+}
+
+.columnright {
+
+    text-align: center;
+}
+
+.row {
+  margin: 15px 0px;
+}
+
+.breadcrumb{
+  background-color: #ffffff;
+}
+
+.border-bottom{
+  border-bottom
+}
+
+.title{
+  text-align: center;
+  font-family: 'Seymour One', sans-serif;
+  font-size: 3rem;
+  padding-top: 1%;
+    padding-bottom: 1%;
+}
